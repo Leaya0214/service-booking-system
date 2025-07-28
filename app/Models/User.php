@@ -61,10 +61,10 @@ class User extends Authenticatable
         return $this->role === 'admin';
     }
 
-    public function createToken(){
-        $string = rand(100000, 999999);
-        return (object) [
-            'plainTextToken' => $string. $this->email,
-        ];
+    public function isCustomer()
+    {
+        return $this->role === 'customer';
     }
+
+
 }
