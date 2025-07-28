@@ -116,5 +116,5 @@ Location: `docs/Service Booking System.json`
 Author:
 -------
 Leaya Sultana  
-Email: you@example.com
+Email: leayasultana@example.com
 
