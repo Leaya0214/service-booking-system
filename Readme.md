@@ -14,7 +14,7 @@ This is a Laravel-based RESTful API for a Service Booking System. It provides:
 
 Technologies Used:
 ------------------
-- Laravel 10+
+- Laravel 12+
 - Sanctum (for API authentication)
 - MySQL
 - Postman (for API testing)
